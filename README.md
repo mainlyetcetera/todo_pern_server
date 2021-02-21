@@ -26,7 +26,7 @@ This is a server I built to store to-dos.
   - in new terminal tab, run `psql -U postgres`
   - the password is `moneK324`
 
-<img width="500" alt="what-postgres-looks-like" https://user-images.githubusercontent.com/70294115/108639621-bce1ff80-7452-11eb-9a6e-5e6a346e385c.png>
+<img width="500" alt="what-postgres-looks-like" src='https://user-images.githubusercontent.com/70294115/108639621-bce1ff80-7452-11eb-9a6e-5e6a346e385c.png'>
 
 ### What can I do once I've connected to the server?
 - you can run `\l` to see all servers to which you have access
@@ -48,4 +48,4 @@ This is a server I built to store to-dos.
 - the server will track your todos, including edits and deletions
 - each todo made is given a unique id, so they will always be tracked 
 
-<img width="500" alt="starting-the-server" https://user-images.githubusercontent.com/70294115/108639653-ea2ead80-7452-11eb-9f36-1eb068916e8c.png>
+<img width="500" alt="starting-the-server" src='https://user-images.githubusercontent.com/70294115/108639653-ea2ead80-7452-11eb-9f36-1eb068916e8c.png'>
