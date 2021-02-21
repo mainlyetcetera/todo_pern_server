@@ -49,3 +49,7 @@ This is a server I built to store to-dos.
 - each todo made is given a unique id, so they will always be tracked 
 
 <img width="500" alt="starting-the-server" src='https://user-images.githubusercontent.com/70294115/108639653-ea2ead80-7452-11eb-9f36-1eb068916e8c.png'>
+
+### Credit where credit is due
+- this project was built with [create react app](https://reactjs.org/docs/create-a-new-react-app.html)
+- I followed [this tutorial](https://www.youtube.com/watch?v=5vF0FGfa0RQ&t=18s) by `The Stoic Programmers`
